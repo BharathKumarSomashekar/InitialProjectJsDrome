@@ -1,0 +1,24 @@
+{
+  "name": "initialprojectjsdrome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PallaviManjunath/InitialProjectJsDrome.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PallaviManjunath/InitialProjectJsDrome/issues"
+  },
+  "homepage": "https://github.com/PallaviManjunath/InitialProjectJsDrome#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.8.0",
+    "eslint-plugin-react": "^7.17.0"
+  }
+}
